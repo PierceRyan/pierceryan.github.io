@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierce Ryan"
-  avatar           : "profile.png"
+  avatar           : "54021.png"
   bio              : "Applied mathematics PhD candidate and lecturer at University College Cork"
   location         : "Cork, Ireland"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2724-1029"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
