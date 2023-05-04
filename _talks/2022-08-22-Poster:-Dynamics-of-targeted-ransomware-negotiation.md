@@ -8,4 +8,4 @@ date: 2022-08-22
 location: "Aberdeen, Scotland"
 ---
 
-Poster presentation of the [paper of the same name](https://ieeexplore.ieee.org/document/9738625) at the DDEU22 conference.
+Poster presentation of the [paper of the same name](https://ieeexplore.ieee.org/document/9738625) at the Dynamic Days Europe 2022 conference.
