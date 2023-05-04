@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Border-collision bifurcations in a driven time-delay system"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-02-01
+venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+paperurl: 'https://doi.org/10.1063/1.5119982'
+citation: 'Border-collision bifurcations in a driven time-delay system , Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(2):023121, 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We show that a simple piecewise-linear system with time delay and periodic forcing gives rise to a rich bifurcation structure of torus bifurcations and Arnold tongues, as well as multistability across a significant portion of the parameter space. The simplicity of our model enables us to study the dynamical features analytically. Specifically, these features are explained in terms of border collision bifurcations of an associated Poincaré map. Given that time delay and periodic forcing are common ingredients in mathematical models, this analysis provides widely applicable insight. 
+[Download paper here](https://doi.org/10.1063/1.5119982)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Border-collision bifurcations in a driven time-delay system , Chaos: An Interdisciplinary Journal of Nonlinear Science, 30(2):023121, 2020.
