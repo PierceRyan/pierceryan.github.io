@@ -63,4 +63,5 @@ Teaching
 Service and leadership
 ======
 
-* Currently signed in to 43 different slack teams
+* I volunteer as a committee member for [Baltimore Sailing Club](https://www.baltimoresailingclub.ie/). I update the club’s website
+and social media, and facilitate online sailing event entry, sailing course registration, and employment applications.
