@@ -8,4 +8,4 @@ date: 2022-08-22
 location: "Aberdeen, Scotland"
 ---
 
-Poster presentation of the [paper of the same name](https://ieeexplore.ieee.org/document/9738625) at the Dynamic Days Europe 2022 conference.
+[Poster](https://github.com/PierceRyan/pierceryan.github.io/blob/master/files/ddeu22_poster_dynamics_of_targeted_ransomware_negotiation.pdf) presentation of the [paper](https://ieeexplore.ieee.org/document/9738625) of the same name at the Dynamic Days Europe 2022 conference.
