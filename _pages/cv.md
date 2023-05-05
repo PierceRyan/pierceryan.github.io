@@ -19,7 +19,7 @@ Work experience
 
 * 2022 - Present: Lecturer in Applied Mathematics
   * University College Cork
-  * I currently have sole responsibility for the teaching, examination, and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students. These include mechanics, tensor algebra, partial differential equations, and network science.
+  * I currently have sole responsibility for the teaching, examination, and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students. These include mechanics, tensor algebra, partial differential equations, and network science. See my [Teaching](https://pierceryan.github.io/teaching/) page for further details.
 
 * 2018 - 2022: Malware Researcher
   * McAfee LLC
@@ -31,7 +31,7 @@ current problems in cybersecurity. My work consisted of:
   
 * 2020 - 2022: Assistant Lecturer
   * University College Cork
-  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students.
+  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students. See my [Teaching](https://pierceryan.github.io/teaching/) page for further details.
   
 Skills
 ======
