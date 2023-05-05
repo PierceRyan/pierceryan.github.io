@@ -21,9 +21,9 @@ Work experience
   * McAfee LLC
   * As part of the McAfee Artificial Intelligence Research team, I conducted research developing new solutions to
 current problems in cybersecurity. My work consisted of:
-   * Studying emerging malware threats in a Big Data environment to enhance the protective capabilities of McAfee’s software as part of the Artificial Intelligence Research team.
-   * Performing data analytics on very large, high dimensional datasets using cloud computing-based data science and machine learning tools, such as AWS and Databricks.
-   * Writing Invention Disclosure Forms to enable the Legal team to apply for patents based on my research.
+      * Studying emerging malware threats in a Big Data environment to enhance the protective capabilities of McAfee’s software as part of the Artificial Intelligence Research team.
+      * Performing data analytics on very large, high dimensional datasets using cloud computing-based data science and machine learning tools, such as AWS and Databricks.
+      * Writing Invention Disclosure Forms to enable the Legal team to apply for patents based on my research.
   
 * 2020 - 2022: Assistant Lecturer
   * University College Cork
