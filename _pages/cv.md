@@ -31,7 +31,7 @@ current problems in cybersecurity. My work consisted of:
   
 * 2020 - 2022: Assistant Lecturer
   * University College Cork
-  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students. See my [Teaching](https://pierceryan.github.io/teaching/) page for further details.
+  * I had sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students. See my [Teaching](https://pierceryan.github.io/teaching/) page for further details.
   
 Skills
 ======
