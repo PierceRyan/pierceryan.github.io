@@ -12,4 +12,3 @@ I had sole responsibility for the teaching, examination, and administration of t
 
 AM3051 Vector & Tensor Methods
 ======
-This module introduces the tensor algebra needed for advanced partial differential equations courses. Taken by third year undergraduate students.
