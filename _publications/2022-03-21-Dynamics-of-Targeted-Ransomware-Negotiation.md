@@ -6,5 +6,5 @@ excerpt: 'In this paper, we consider how the development of targeted ransomware 
 date: 2022-03-21
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9738625'
-citation: 'P. Ryan, J. Fokker, S. Healy and A. Amann, Dynamics of targeted ransomware negotiation , IEEE Access, 10:3283632844, 2022'
+citation: 'P. Ryan, J. Fokker, S. Healy and A. Amann, Dynamics of targeted ransomware negotiation, IEEE Access, 10:3283632844, 2022'
 ---
