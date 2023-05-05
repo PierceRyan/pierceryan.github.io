@@ -12,10 +12,14 @@ redirect_from:
 Education
 ======
 * BSc Mathematical Sciences, First Class Honours, University College Cork, 2018
-* Ph.D in Applied Mathematics, University College Cork, 2023 (thesis submitted, awaiting viva)
+* PhD in Applied Mathematics, University College Cork, 2023 (thesis submitted, awaiting viva)
 
 Work experience
 ======
+
+* 2022-present: Lecturer in Applied Mathematics
+  * University College Cork
+  * I currently have sole responsibility for the teaching, examination, and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students. These include mechanics, tensor algebra, partial differential equations, and network science.
 
 * 2018 - 2022: Malware Researcher
   * McAfee LLC
@@ -27,11 +31,7 @@ current problems in cybersecurity. My work consisted of:
   
 * 2020 - 2022: Assistant Lecturer
   * University College Cork
-  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods an Applied Mathematics module taken by third & fourth year Mathematical Sciences students.
-
-* 2022-present: Lecturer in Applied Mathematics
-  * University College Cork
-  * Duties included: Sole responsibility for the teaching, examination and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students.
+  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students.
   
 Skills
 ======
