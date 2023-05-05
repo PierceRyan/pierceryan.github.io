@@ -45,11 +45,12 @@ Skills
   * Administration
   * Developing course material
 * Programming languages
-  * Python/PySpark
+  * Python, PySpark
+  * LaTeX, LyX
   * R, SPSS, SAS
   * C++
 * Organisation tools
-  * Git/Github
+  * Git, Github
   * Wordpress
   * Canvas
   * Jira
