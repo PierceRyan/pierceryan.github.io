@@ -35,12 +35,24 @@ current problems in cybersecurity. My work consisted of:
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+  * Dynamical systems
+  * Mathematical modelling
+  * Data science
+* Teaching
+  * Lecturing/Tutoring
+  * Examination
+  * Administration
+  * Developing course material
+* Programming languages
+  * Python/PySpark
+  * R, SPSS, SAS
+  * C++
+* Organisation tools
+  * Git/Github
+  * Wordpress
+  * Canvas
+  * Jira
 
 Publications
 ======
