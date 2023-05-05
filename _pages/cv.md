@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Mathematical Sciences, First Class Honours, University College Cork, 2018
+* Ph.D in Applied Mathematics, University College Cork, 2023 (thesis submitted, awaiting viva)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2022: Malware Researcher
+  * McAfee LLC
+  * As part of the McAfee Artificial Intelligence Research team, I conducted research developing new solutions to
+current problems in cybersecurity. My work consisted of:
+   * Studying emerging malware threats in a Big Data environment to enhance the protective capabilities of McAfee’s software as part of the Artificial Intelligence Research team.
+   * Performing data analytics on very large, high dimensional datasets using cloud computing-based data science and machine learning tools, such as AWS and Databricks.
+   * Writing Invention Disclosure Forms to enable the Legal team to apply for patents based on my research.
+  
+* 2020 - 2022: Assistant Lecturer
+  * University College Cork
+  * Duties included: Sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods an Applied Mathematics module taken by third & fourth year Mathematical Sciences students.
+
+* 2022-present: Lecturer in Applied Mathematics
+  * University College Cork
+  * Duties included: Sole responsibility for the teaching, examination and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students.
   
 Skills
 ======
@@ -56,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
+
 * Currently signed in to 43 different slack teams
