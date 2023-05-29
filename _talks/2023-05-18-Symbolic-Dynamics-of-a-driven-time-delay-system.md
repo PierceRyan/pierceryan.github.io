@@ -8,4 +8,4 @@ date: 2023-05-18
 location: "Portland, Oregon, USA"
 ---
 
-Oral presentation covering a previously published [paper](https://doi.org/10.1063/1.5119982), taking into account more recent study in the field.
+Oral presentation covering a previously published [paper](https://doi.org/10.1063/1.5119982), taking into account more recent study in the field. [Link to slides](https://pierceryan.github.io/files/siam_ds23_symbolic_dynamics_of_a_driven_time_delay_system.pdf)
