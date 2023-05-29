@@ -8,4 +8,4 @@ date: 2019-09-25
 location: "Cork, Ireland"
 ---
 
-Oral presentation on the [paper](https://doi.org/10.1063/1.5119982) of the same name given as part of the UCC School of Mathematical Sciences seminar series.
+Oral presentation on the [paper](https://doi.org/10.1063/1.5119982) of the same name given as part of the UCC School of Mathematical Sciences seminar series. [Link to slides](https://pierceryan.github.io/files/siam_ds23_symbolic_dynamics_of_a_driven_time_delay_system.pdf)
