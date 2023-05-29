@@ -1,6 +1,6 @@
 ---
 title: "Talk: Symbolic dynamics of a driven time-delay system"
-collection: talks
+collection: conference proceedings talks
 type: "Talk"
 permalink: /talks/2023-05-18-Symbolic-Dynamics-of-a-driven-time-delay-system
 venue: "SIAM DS23 Conference"
