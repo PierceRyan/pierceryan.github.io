@@ -1,7 +1,7 @@
 ---
 title: "Poster: Dynamics of targeted ransomware negotiation"
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/2022-08-22-Poster:-Dynamics-of-targeted-ransomware-negotiation
 venue: "Dynamic Days Europe 2022, University of Aberdeen"
 date: 2022-08-22
