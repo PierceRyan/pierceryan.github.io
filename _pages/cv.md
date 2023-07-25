@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc Mathematical Sciences, First Class Honours, University College Cork, 2018
-* PhD in Applied Mathematics, University College Cork, 2023 (thesis submitted, awaiting viva)
+* PhD in Applied Mathematics, University College Cork, 2023 (successfully defended thesis, awaiting conferral)
 
 Work experience
 ======
