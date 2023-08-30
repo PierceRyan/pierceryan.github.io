@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-IE"
+locale                   : "en-US"
 title                    : "Pierce Ryan"
 title_separator          : "-"
 name                     : &name "Pierce Ryan"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pierce Ryan"
   avatar           : "54021.png"
-  bio              : "Postdoctoral researcher in Applied Mathematics at University College Cork"
+  bio              : "Applied Mathematics PhD candidate and lecturer at University College Cork"
   location         : "Cork, Ireland"
-  employer         : "University College Cork
+  employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jim_9r8AAAAJ"
   email            : "pierce.ryan@ucc.ie"
