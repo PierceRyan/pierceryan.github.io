@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Welcome to my Personal Website!"
-excerpt: "Final year Applied Mathematics PhD candidate at University College Cork. Research interests include: Dynamical Systems, Data Modelling, Internet Systems"
+title: "Biography"
+excerpt: "Postdoctoral researcher at University College Cork. Research interests include: Nonlinear dynamics, Data Modelling, Internet Systems"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a postdoctoral researcher in Applied Mathematics at University College Cork, supervised by Dr. Kieran Mulchrone. My research interests include nonlinear dynamics, data modelling, and the modelling of Internet systems. I made this website to host my CV, published research, and any unpublished projects I decide to share!
+I am a postdoctoral researcher in Applied Mathematics at University College Cork. My research interests include nonlinear dynamics, data modelling, and the modelling of Internet systems. I currently work on a research project to design inventory management systems for emergency vehicles.
