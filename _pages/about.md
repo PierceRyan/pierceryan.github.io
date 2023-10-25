@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Applied Mathematics at University College Cork. My research interests include nonlinear dynamics, data modelling, and the modelling of Internet systems. I currently work on a research project to design inventory management systems for emergency vehicles.
+I am a postdoctoral researcher in Applied Mathematics at University College Cork. My research interests include nonlinear dynamics, data modelling, and the modelling of Internet systems. I currently work on an industry-partnered research project to develop inventory management systems for emergency vehicles.
