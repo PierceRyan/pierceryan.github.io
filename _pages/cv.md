@@ -15,7 +15,7 @@ Education
 * Postgraduate Certificate in Teaching & Learning in Higher Education, University College Cork, 2023 - present
 * BSc Mathematical Sciences, First Class Honours, University College Cork, 2014 - 2018
 
-Work experience
+Employment
 ======
 * 2023 - Present: Postdoctoral Researcher
   * University College Cork
@@ -36,30 +36,6 @@ current problems in cybersecurity. My work consisted of:
 * 2020 - 2022: Assistant Lecturer
   * University College Cork
   * I had sole responsibility for the teaching, examination and administration of AM3051: Vector & Tensor Methods, an Applied Mathematics module taken by third & fourth year Mathematical Sciences students. See my [Teaching](https://pierceryan.github.io/teaching/) page for further details.
-  
-Skills
-======
-* Mathematics
-  * Dynamical systems
-  * Mathematical modelling
-  * Stochastic processes
-  * Data science
-* Teaching
-  * Lecturing/Tutoring
-  * Examination
-  * Administration
-  * Developing course material
-* Programming languages
-  * Python/PySpark
-  * LaTeX/LyX
-  * R, SPSS, SAS
-  * C++/C#
-* Research, development and teaching tools
-  * Git/Github
-  * Wordpress
-  * Canvas
-  * Jira
-  * Confluence
 
 Publications
 ======
@@ -78,9 +54,36 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Funding
+======
+* [Irish Research Council Employment Based Postgraduate Programme](https://research.ie/funding/ebp/)
+*   Title: Anomaly detection on computer networks - a mathematical approach to the development of strategies using machine learning, dynamical systems theory, game theory and complex network theory.
+*   Period: 2018 -- 2022
+*   Value: €102,125
+
+
 Contribution
 ======
 
 * I initiated and organise the UCC Short Informal Mathematical Seminars, a weekly seminar series which presents and promotes interdisciplinary research involving mathematics.
 * I volunteer as a committee member for [Baltimore Sailing Club](https://www.baltimoresailingclub.ie/). My primary role is to monitor the club’s online presence. I manage social media pages and the club's website to provide online registration for sailing courses and sailing events, an online store, and membership payments.
+
+Proficiencies
+======
+* Teaching
+  * Lecturing/Tutoring
+  * Examination
+  * Administration
+  * Developing course material
+* Programming languages
+  * Python/PySpark
+  * LaTeX/LyX
+  * R, SPSS, SAS
+  * C++/C#
+* Research, development and teaching tools
+  * Git/Github
+  * Wordpress
+  * Canvas
+  * Jira
+  * Confluence
