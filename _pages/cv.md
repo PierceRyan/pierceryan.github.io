@@ -57,9 +57,8 @@ Teaching
 
 Funding
 ======
-* [Irish Research Council Employment Based Postgraduate Programme](https://research.ie/funding/ebp/)
+* 2018 - 2022: Irish Research Council Employment Based Postgraduate Programme
   * Title: Anomaly detection on computer networks - a mathematical approach to the development of strategies using machine learning, dynamical systems theory, game theory and complex network theory.
-  * Period: 2018 -- 2022
   * Value: €102,125
 
 
