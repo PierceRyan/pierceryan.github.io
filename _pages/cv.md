@@ -42,6 +42,7 @@ Skills
 * Mathematics
   * Dynamical systems
   * Mathematical modelling
+  * Stochastic processes
   * Data science
 * Teaching
   * Lecturing/Tutoring
@@ -49,15 +50,16 @@ Skills
   * Administration
   * Developing course material
 * Programming languages
-  * Python, PySpark
-  * LaTeX, LyX
+  * Python/PySpark
+  * LaTeX/LyX
   * R, SPSS, SAS
-  * C++
-* Organisation tools
-  * Git, Github
+  * C++/C#
+* Research, development and teaching tools
+  * Git/Github
   * Wordpress
   * Canvas
   * Jira
+  * Confluence
 
 Publications
 ======
@@ -77,8 +79,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Contribution
 ======
 
-* I volunteer as a committee member for [Baltimore Sailing Club](https://www.baltimoresailingclub.ie/). I update the club’s website
-and social media, and facilitate online sailing event entry, sailing course registration, and employment applications.
+* I initiated and organise the UCC Short Informal Mathematical Seminars, a weekly seminar series which presents and promotes interdisciplinary research involving mathematics.
+* I volunteer as a committee member for [Baltimore Sailing Club](https://www.baltimoresailingclub.ie/). My primary role is to monitor the club’s online presence. I manage social media pages and the club's website to provide online registration for sailing courses and sailing events, an online store, and membership payments.
