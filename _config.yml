@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pierce Ryan"
   avatar           : "54021.png"
-  bio              : "Postdoctoral researcher in Applied mathematics at University College Cork"
-  location         : "Cork, Ireland"
+  bio              : "Lecturer in Applied Mathematics at Technological University Dublin"
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jim_9r8AAAAJ"
-  email            : "pierce.ryan[at]ucc.ie"
+  email            : "pierce.ryan[at]tudublin.ie"
   researchgate     : "https://www.researchgate.net/profile/Pierce-Ryan"
   uri              :
   bitbucket        :
