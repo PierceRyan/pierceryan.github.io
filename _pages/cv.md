@@ -12,13 +12,15 @@ redirect_from:
 Education
 ======
 * PhD in Applied Mathematics, University College Cork, 2018 - 2023
-* Postgraduate Certificate in Teaching & Learning in Higher Education, University College Cork, 2023 - present
+* Postgraduate Certificate in Teaching & Learning in Higher Education, University College Cork, 2023 - 2024
 * BSc Mathematical Sciences, First Class Honours, University College Cork, 2014 - 2018
 
 Employment
 ======
-* 2023 - Present: Postdoctoral Researcher, University College Cork
-  * I currently work on an industry-partnered research project to develop sophisticated inventory management systems for emergency vehicles. This involves applying machine learning techniques to both on-vehicle high-frequency live data and global event-based server data.
+* 2024 - present: Assistant Lecturer in Applied Mathematics, Technological University Dublin
+
+* 2023 - 2024: Postdoctoral Researcher, University College Cork
+  * I worked on an industry-partnered research project to develop sophisticated inventory management systems for emergency vehicles. This involves applying machine learning techniques to both on-vehicle high-frequency live data and global event-based server data.
 
 * 2022 - 2023: Lecturer in Applied Mathematics, University College Cork
   * I had sole responsibility for the teaching, examination, and administration of four Applied Mathematics modules taken by undergraduate and postgraduate students. These included mechanics, tensor algebra, partial differential equations, and network science.
